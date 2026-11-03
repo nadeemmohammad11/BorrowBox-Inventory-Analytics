@@ -1,3 +1,9 @@
+## 🌐 Original Project Website
+
+[**View Full BorrowBox Project Website**](https://harshithaj2000.github.io/report/)
+
+Explore the complete team research project, including interactive dashboards, system prototype, architecture, and research findings.
+
 # BorrowBox — QR-Based Inventory Tracking & Analytics
 
 **Master's Research Project | Saint Louis University | March 2026**
